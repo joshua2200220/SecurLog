@@ -1,0 +1,17 @@
+{
+  "name": "SecurLog",
+  "short_name": "SecurLog",
+  "start_url": "/SecurLog/",
+  "scope": "/SecurLog/",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/SecurLog/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
